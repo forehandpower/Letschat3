@@ -1,0 +1,14 @@
+.star{
+    width:45px;
+}
+.logo{
+    width:100px;
+}
+body{
+    background-color: rgb(247, 194, 23);
+}
+.login_div{
+    float: none;
+    background-color: blue;
+    color: rgb(245, 75, 103)
+}
